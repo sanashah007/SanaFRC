@@ -1,2 +1,2 @@
 # SanaFRC
-my own repository for FRC
+my own repository for FRC tests
